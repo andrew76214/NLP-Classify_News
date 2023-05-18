@@ -7,6 +7,7 @@ This dataset contains around 210k news headlines from 2012 to 2022 from HuffPost
 
 1. Misra, Rishabh. "News Category Dataset." arXiv preprint arXiv:2209.11429 (2022).
 2. Misra, Rishabh and Jigyasa Grover. "Sculpting Data for ML: The first act of Machine Learning." ISBN 9798585463570 (2021).
+
 --
 ![期中專題報告_page-0001](https://github.com/andrew76214/NLP-Classify_News/assets/61071600/63124478-984f-411c-a4b4-1da035927aa6)
 ![期中專題報告_page-0002](https://github.com/andrew76214/NLP-Classify_News/assets/61071600/15b2ebe6-915d-4e4b-9c4a-b3115989effd)
